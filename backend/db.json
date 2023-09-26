@@ -67,8 +67,36 @@
       "name": "new user",
       "email": "newuser@gmail.com",
       "phone": "3456781223",
-      "address": "delhi",
+      "address": "mumbai",
       "id": 10
+    },
+    {
+      "name": "completed validations",
+      "email": "compvali@gmail.com",
+      "phone": "77293232323",
+      "address": "home",
+      "id": 11
+    },
+    {
+      "name": "ukajs",
+      "email": "fyuijk@ha.com",
+      "phone": "34567890",
+      "address": "dfghjkl",
+      "id": 12
+    },
+    {
+      "name": "name field",
+      "email": "email@email.com",
+      "phone": "273823742312",
+      "address": "haonaa eowe aka nk  ",
+      "id": 13
+    },
+    {
+      "name": "person131",
+      "email": "person3232@gmail.com",
+      "phone": "7382732",
+      "address": "jkjs ks  ",
+      "id": 14
     }
   ]
 }
